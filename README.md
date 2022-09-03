@@ -1,13 +1,8 @@
-<html>
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Hello Word</title>
-</head>
-<body style="background-color:LightCyan";> 
+Hello Word
 
-	<div style="text-align: center;">
-		<h1> Primeiro Projeto do curso de Front-End da Happy Code.</h1> 
+	 Primeiro Projeto do curso de Front-End da Happy Code.
+
+Nessa atividade criamos uma estante de livros.
+
 	
-</body>
-</html>
+
